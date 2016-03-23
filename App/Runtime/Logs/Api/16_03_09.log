@@ -1,0 +1,86 @@
+[ 2016-03-09T20:55:06+08:00 ] ::1 /weixin/index.php/Api/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.049019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021586s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') E:\Program\php\weixin\App\Api\Controller\JhttpController.class.php 第 212 行.
+NOTIC: [8] Undefined variable: orderNum E:\Program\php\weixin\App\Api\Controller\TestController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010959s ]
+
+[ 2016-03-09T20:56:01+08:00 ] ::1 /weixin/index.php/Api/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') E:\Program\php\weixin\App\Api\Controller\JhttpController.class.php 第 212 行.
+NOTIC: [8] Undefined variable: orderNum E:\Program\php\weixin\App\Api\Controller\TestController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001757s ]
+
+[ 2016-03-09T20:58:04+08:00 ] ::1 /weixin/index.php/Api/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001448s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') E:\Program\php\weixin\App\Api\Controller\JhttpController.class.php 第 212 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002626s ]
+
+[ 2016-03-09T20:59:15+08:00 ] ::1 /weixin/index.php/Api/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') E:\Program\php\weixin\App\Api\Controller\JhttpController.class.php 第 213 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001961s ]
+
+[ 2016-03-09T21:00:33+08:00 ] ::1 /weixin/index.php/Api/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001938s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') E:\Program\php\weixin\App\Api\Controller\JhttpController.class.php 第 213 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002509s ]
+
+[ 2016-03-09T21:17:01+08:00 ] ::1 /weixin/index.php/Api/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') E:\Program\php\weixin\App\Api\Controller\JhttpController.class.php 第 205 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2016-03-09T21:23:30+08:00 ] ::1 /weixin/index.php/Api/Test/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000599s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') E:\Program\php\weixin\App\Api\Controller\JhttpController.class.php 第 205 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002683s ]
+

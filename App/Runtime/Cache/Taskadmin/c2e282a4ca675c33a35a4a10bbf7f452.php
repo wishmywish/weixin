@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>./App/Taskadmin/View/Black/Index/index.html

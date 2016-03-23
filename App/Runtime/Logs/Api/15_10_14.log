@@ -1,0 +1,155 @@
+[ 2015-10-14T15:14:56+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/getCompanyInfos?companyId=823
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 823 行.
+NOTIC: [8] Undefined variable: url D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 746 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 818 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-14T15:15:10+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/getCompanyInfos?companyId=823
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 823 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 818 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-14T15:15:11+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/getCompanyInfos?companyId=823
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 823 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 818 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-10-14T15:16:07+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/getCompanyInfos?companyId=823
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 821 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 816 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-14T15:16:13+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/getCompanyInfos?companyId=823
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 821 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 816 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-10-14T15:17:48+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/userDelete?userId=10263
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 819 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 814 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 814 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-10-14T15:19:34+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/getUserinfoByUserId?userId=10264
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 816 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 811 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-10-14T15:20:40+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/getCompanyByName?companyId=63
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 825 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 820 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2015-10-14T15:20:48+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/getCompanyByName?companyId=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 825 行.
+NOTIC: [8] Undefined variable: body D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 820 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-10-14T15:22:31+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/addFacAge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 838 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-10-14T15:22:45+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/addFacAge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 838 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2015-10-14T15:22:54+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Jhttp/addFacAge
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\newwisdom\App\Api\Controller\JhttpController.class.php 第 838 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

@@ -1,0 +1,719 @@
+[ 2015-11-24T14:05:07+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:05:19+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskLis
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:05:29+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:06:04+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-24T14:06:45+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:06:46+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:06:47+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:06:47+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:06:47+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:06:47+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-24T14:06:47+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:00+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:07:02+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-24T14:07:02+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:07:02+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:07:02+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:03+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:03+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:03+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:03+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:07:03+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:04+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:04+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:07:04+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:07:04+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:04+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:20+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:21+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:07:21+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:21+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-24T14:07:21+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:21+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:07:53+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/call_Mobile?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:call_Mobile
+
+[ 2015-11-24T14:08:15+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:08:20+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-11-24T14:08:21+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:10:31+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:32+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:32+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:33+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:33+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:10:33+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:33+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:34+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:57+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:58+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:58+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:10:58+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:10:58+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:10:58+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-11-24T14:11:12+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:11:58+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-11-24T14:11:58+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: mobile_version D:\wamp\www\newwisdom\App\Api\Controller\InfoController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-11-24T14:12:49+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `t_token` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `t_token` [ RunTime:0.0100s ]
+SQL: SELECT `f_clientkey` FROM `t_token` WHERE ( f_clientid='17804ac281e6ddda' ) LIMIT 1   [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `t_tasktype` [ RunTime:0.0100s ]
+SQL: SELECT `F_TYPEID` FROM `t_tasktype` WHERE ( F_PARENTID=1 )  [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `t_task` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `t_task` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_task` WHERE `f_status` <> 0 AND `f_tasktypeid` IN ('1') LIMIT 1   [ RunTime:0.0100s ]
+SQL: SELECT * FROM `t_task` WHERE `f_status` = 3  [ RunTime:0.0110s ]
+SQL: SELECT `f_tid`,`f_tasktypeid`,`f_creatdate`,`f_surveno`,`f_title`,`f_description`,`f_begindate`,`f_enddate`,`f_totalcopies`,`f_drawcopies`,ROUND(f_eachcoin*10) as f_eachcoin,`f_eachscore`,`f_harder`,`f_filename`,`f_filepath`,`f_taskattention`,count(t_share.f_sid) as sharesum,`f_status` FROM `t_task` LEFT JOIN t_tasksmallinfo ON t_tasksmallinfo.f_taskid = t_task.f_tid LEFT JOIN t_files ON t_files.f_id = t_task.f_fileid LEFT JOIN t_share ON t_share.f_taskid = t_task.f_tid and t_share.f_userid=1  WHERE `f_tasktypeid` IN ('1') AND `f_status` IN ('1','3') AND `f_begindate` <= '2015-11-24' GROUP BY f_tid ORDER BY f_status desc,f_creatdate desc LIMIT 0,10   [ RunTime:0.0140s ]
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2015-11-24T14:12:50+08:00 ] 127.0.0.1 /newwisdom/index.php/Api/Info/conf?command=getTaskList&userid=0&page=1&tasktypeid=1&hometask=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_token` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `t_token` [ RunTime:0.0070s ]
+SQL: SELECT `f_clientkey` FROM `t_token` WHERE ( f_clientid='17804ac281e6ddda' ) LIMIT 1   [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `t_tasktype` [ RunTime:0.0080s ]
+SQL: SELECT `F_TYPEID` FROM `t_tasktype` WHERE ( F_PARENTID=1 )  [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `t_task` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `t_task` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `t_task` WHERE `f_status` <> 0 AND `f_tasktypeid` IN ('1') LIMIT 1   [ RunTime:0.0070s ]
+SQL: SELECT * FROM `t_task` WHERE `f_status` = 3  [ RunTime:0.0090s ]
+SQL: SELECT `f_tid`,`f_tasktypeid`,`f_creatdate`,`f_surveno`,`f_title`,`f_description`,`f_begindate`,`f_enddate`,`f_totalcopies`,`f_drawcopies`,ROUND(f_eachcoin*10) as f_eachcoin,`f_eachscore`,`f_harder`,`f_filename`,`f_filepath`,`f_taskattention`,count(t_share.f_sid) as sharesum,`f_status` FROM `t_task` LEFT JOIN t_tasksmallinfo ON t_tasksmallinfo.f_taskid = t_task.f_tid LEFT JOIN t_files ON t_files.f_id = t_task.f_fileid LEFT JOIN t_share ON t_share.f_taskid = t_task.f_tid and t_share.f_userid=1  WHERE `f_tasktypeid` IN ('1') AND `f_status` IN ('1','3') AND `f_begindate` <= '2015-11-24' GROUP BY f_tid ORDER BY f_status desc,f_creatdate desc LIMIT 0,10   [ RunTime:0.0140s ]
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 632 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 633 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 634 行.
+NOTIC: [8192] Function ereg_replace() is deprecated D:\wamp\www\newwisdom\App\Api\Controller\MobileController.class.php 第 635 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

@@ -1,0 +1,10 @@
+[ 2016-03-08T15:17:26+08:00 ] ::1 /sbd/index.php/Api/Jhttp/createOrder?orderNum=1&name=2&mobile=3&province=4&publisherName=5&publisherMobile=6&publisherProvince=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+NOTIC: [2048] Declaration of Api\Controller\JhttpController::get() should be compatible with Think\Controller::get($name = '') D:\wamp\www\sbd\App\Api\Controller\JhttpController.class.php 第 146 行.
+ERR: 参数错误或者未定义:weight
+
